@@ -1,0 +1,6 @@
+Brand Ambassador logo sources used:
+Brunswick Billiards — brand asset surfaced from Brandfetch.
+Fort Worth Billiards Superstore — logo crop from a Fort Worth Billiards product image on its storefront CDN.
+KAMUI Brand — KAMUI logo image from a billiards retail storefront CDN.
+
+These images load remotely. For permanent self-hosting, replace them with official logo files supplied directly by each brand.
